@@ -5,7 +5,7 @@ This game is the classic two-person tic-tac-toe game. It was written in python u
 # Game Screenshots
 | Inital Screen | Mid-game Screen | End Screen (Winner) | End Screen (Draw) |
 |---------------|-----------------|---------------------|-------------------|
-|![](https://github.com/elisshui/Tic-Tac-Toe/blob/main/InitalScreen.JPG) | test | test | test |
+|![](https://github.com/elisshui/Tic-Tac-Toe/blob/main/InitalScreen.JPG) | ![](https://github.com/elisshui/Tic-Tac-Toe/blob/main/MidGameScreen.JPG) | ![](https://github.com/elisshui/Tic-Tac-Toe/blob/main/ScreenWin.JPG) | ![](https://github.com/elisshui/Tic-Tac-Toe/blob/main/ScreenDraw.JPG) |
 
 Project by [Eliss Hui](https://github.com/elisshui "Eliss Hui") (Nov 2021 - Jan 2022)
 
