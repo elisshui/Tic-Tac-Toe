@@ -8,7 +8,7 @@ This game is the classic two-person tic-tac-toe game. It was written in python u
 |![](https://github.com/elisshui/Tic-Tac-Toe/blob/main/InitalScreen.JPG) | ![](https://github.com/elisshui/Tic-Tac-Toe/blob/main/MidGameScreen.JPG) | ![](https://github.com/elisshui/Tic-Tac-Toe/blob/main/ScreenWin.JPG) | ![](https://github.com/elisshui/Tic-Tac-Toe/blob/main/ScreenDraw.JPG) |
 | Clicking anywhere on any square places an **X** right in the center of the chosen square. | Players take turns to place markers down. | The winner is shown in the command bar and by the red line. | A draw is shown in the command bar. |
 
-* Players may reset the board using the reset button at any time.
+* Players may reset the board at any time using the reset button.
 * Players may exit the game by clicking on either the exit button (the top right corner) or the game's orange exit button.
 * When the game ends, no more squares can be clicked.
 * If a player clicks on a square with a marker, the command bar informs the player than the square has been taken and promts the player to chose another square.
