@@ -4,7 +4,7 @@ This game is the classic two-person tic-tac-toe game. It was written in python u
 
 # Game Screenshots
 | Inital Screen | Mid-game Screen | End Screen (Winner) | End Screen (Draw) |
------------------------------------------------------------------------------
+|---------------------------------------------------------------------------|
 |test | test | test | test |
 
 Project by [Eliss Hui](https://github.com/elisshui "Eliss Hui") (Nov 2021 - Jan 2022)
